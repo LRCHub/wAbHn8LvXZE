@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "クエスチョン",
+  "base_artist": "meiyo",
+  "createdAt": "2026-03-04T08:09:42.612304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サタデー・ナイト・クエスチョン",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/01_サタデー・ナイト・クエスチョン_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サタデー・ナイト・クエスチョン -Instrumental-",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/02_サタデー・ナイト・クエスチョン_-Instrumental-_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クエスチョン",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/03_クエスチョン_meiyo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サタデー・ナイト・クエスチョン",
+      "artist": "Megumi Nakajima",
+      "has_synced": true,
+      "path": "select/04_サタデー・ナイト・クエスチョン_Megumi_Nakajima.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サタデー・ナイト・クエスチョン",
+      "artist": "中島愛",
+      "has_synced": true,
+      "path": "select/05_サタデー・ナイト・クエスチョン_中島愛.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サタデー・ナイト・クエスチョン",
+      "artist": "中島 愛",
+      "has_synced": true,
+      "path": "select/06_サタデー・ナイト・クエスチョン_中島_愛.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "クエスチョン - Question",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/07_クエスチョン_-_Question_meiyo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ファサード・クエスチョン (feat. 初音ミク&重音テト)",
+      "artist": "32ki",
+      "has_synced": false,
+      "path": "select/08_ファサード・クエスチョン_(feat._初音ミク&重音テト)_32ki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ファサード・クエスチョン (feat. 初音ミク&重音テト)",
+      "artist": "サツキ",
+      "has_synced": false,
+      "path": "select/09_ファサード・クエスチョン_(feat._初音ミク&重音テト)_サツキ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クエスチョン",
+      "artist": "meiyo",
+      "has_synced": false,
+      "path": "select/pl_01_クエスチョン_meiyo.txt"
+    }
+  ]
+}
